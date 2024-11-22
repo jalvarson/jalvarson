@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jalvarson
-- 👀 I’m interested in front-end development (Javascript, React, React native, Vue.js, ember.js)
-- 🌱 I’m currently learning Ember.js
+- 👀  I’m proficient in front-end frameworks and libraries, including Flutter, React Native, React, Vue & Ember
 
 <!---
 jalvarson/jalvarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
